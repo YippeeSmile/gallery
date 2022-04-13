@@ -1,1 +1,2 @@
-# gallery https://yippeesmile.github.io/gallery/
+**Слайдер картинок**
+**[Ссылка на проект](https://yippeesmile.github.io/gallery/)** 
